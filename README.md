@@ -11,6 +11,15 @@
   };_
 * _If you want sample data, upload sample-albums.json to firebase_
 
+## My API key
+export var masterFirebaseConfig = {
+  apiKey: "AIzaSyByxbetUSwYbL-Vlh-bLbsziEpmt5rp8a4",
+  authDomain: "online-store-970d9.firebaseapp.com",
+  databaseURL: "https://online-store-970d9.firebaseio.com",
+  storageBucket: "",
+  messagingSenderId: "426863471013"
+};
+
 # OnlineStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
