@@ -1,3 +1,16 @@
+## Setup
+
+* _Create a api-keys.ts file in src/app_
+* _Add line below with your firebase web app info
+* _export var masterFirebaseConfig = {
+    apiKey: "xxxx",
+    authDomain: "xxxx.firebaseapp.com",
+    databaseURL: "https://xxxx.firebaseio.com",
+    storageBucket: "xxxx.appspot.com",
+    messagingSenderId: "xxxx"
+  };_
+* _If you want sample data, upload sample-albums.json to firebase_
+
 # OnlineStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
