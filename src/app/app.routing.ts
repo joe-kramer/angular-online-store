@@ -6,6 +6,10 @@ const appRoutes: Routes = [
   {
       path: '',
       component: WelcomeComponent
+  },
+  {
+    path: 'about',
+    component: AboutComponent
   }
 ];
 
